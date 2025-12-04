@@ -2,7 +2,7 @@
 
 ---
 
-### **Simulation du Jeu de la Vie de Conway en C++ orienté objet, avec :**
+## **Simulation du Jeu de la Vie de Conway en C++ orienté objet, avec :**
 
 - Mode console
 
@@ -19,6 +19,35 @@
 - Contrôle de la vitesse
 
 - Musique (SFML Audio)
+
+
+
+
+
+---
+
+
+
+
+
+
+## **🖼️ Aperçu du jeu :**
+
+### Ecran de demarrage :
+
+![Ecran demarrage](assets/screenshot_demarrage.png)
+
+### Menu principal :
+
+![Menu principal](assets/screenshot_menu.png)
+
+### Grille en mode simulation :
+
+![Simulation](assets/screenshot_simulation.png)
+
+
+
+
 
 
 
