@@ -1,7 +1,6 @@
 # **Conway’s Game of Life — Projet POO (C++ / SFML)**
 
 
-<span style="color:red">Texte rouge</span>
 
 
 ---
