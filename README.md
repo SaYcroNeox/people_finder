@@ -1,6 +1,6 @@
 # Conway’s Game of Life — Projet POO (C++ / SFML)
 
-### Simulation du Jeu de la Vie de Conway en C++ orienté objet, avec :
+## Simulation du Jeu de la Vie de Conway en C++ orienté objet, avec :
 
 - Mode console
 
