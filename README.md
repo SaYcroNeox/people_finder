@@ -163,11 +163,13 @@ Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
 
 ## **📄 Format du fichier test.txt :**
 
+```bash
 .....
 ..1..
 ....1
 .....
 ..1..
+```
 
 - 1 = cellule vivante
 
