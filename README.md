@@ -347,7 +347,7 @@ Le glider doit continuer à exister après plusieurs générations.
 Chaque test utilise des assertions (assert) pour vérifier automatiquement que l’état final de la grille correspond au résultat attendu.
 
 
-#### **▶️ Exemple d’exécution des tests :**
+#### ▶️ Exemple d’exécution des tests :
 
 Lors du lancement du programme, l’affichage suivant apparaît dans la console :
 
