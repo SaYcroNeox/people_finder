@@ -351,12 +351,14 @@ Chaque test utilise des assertions (assert) pour vérifier automatiquement que l
 
 Lors du lancement du programme, l’affichage suivant apparaît dans la console :
 
+```bash
 ==== Lancement des tests unitaires ====
   - Cellule vivante isolee meurt ... OK
   - Bloc 2x2 reste stable ... OK
   - Blinker oscille correctement ... OK
   - Glider se deplace dans la grille ... OK
 Tous les tests unitaires sont passes avec succes.
+```
 
 
 
@@ -378,8 +380,8 @@ Tous les tests unitaires sont passes avec succes.
 ## **👨‍💻 Auteur :**
 
 Projet réalisé dans le cadre d’un Projet de Programmation Orientée Objet
-Langage : C++17
-Librairie graphique : SFML
+Langage : **C++17**
+Librairie graphique : **SFML**
 
 
 
