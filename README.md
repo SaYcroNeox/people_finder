@@ -37,6 +37,7 @@
 
 ## **Structure du projet :**
 
+```bash
 ProjetPOO/
 │
 ├── Assets/
@@ -69,7 +70,7 @@ ProjetPOO/
 │
 ├── game_of_life.exe
 └── README.md
-
+```
 
 
 ⚙️ Prérequis :
