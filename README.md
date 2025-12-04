@@ -379,9 +379,9 @@ Tous les tests unitaires sont passes avec succes.
 
 ## **👨‍💻 Auteur :**
 
-Projet réalisé dans le cadre d’un Projet de Programmation Orientée Objet
-Langage : **C++17**
-Librairie graphique : **SFML**
+- Projet réalisé dans le cadre d’un Projet de Programmation Orientée Objet
+- Langage : **C++17**
+- Librairie graphique : **SFML**
 
 
 
