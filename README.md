@@ -73,7 +73,7 @@ ProjetPOO/
 ```
 
 
-⚙️ Prérequis :
+## **⚙️ Prérequis :**
 
 - Compilateur C++17
 
