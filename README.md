@@ -328,20 +328,20 @@ Les tests sont définis dans le fichier :
 
 Ils sont exécutés automatiquement au lancement du programme, avant l’exécution normale du jeu (mode console ou graphique).
 
-🔍 Tests implémentés
+### 🔍 Tests implémentés
 
-Les tests suivants sont actuellement vérifiés :
+**Les tests suivants sont actuellement vérifiés :**
 
-Mort d’une cellule isolée
+- Mort d’une cellule isolée
 Une cellule vivante sans voisins doit mourir (sous-population).
 
-Stabilité d’un bloc 2×2
+- Stabilité d’un bloc 2×2
 Une structure stable doit rester inchangée après une itération.
 
-Oscillation d’un blinker
+- Oscillation d’un blinker
 Le blinker doit alterner correctement entre forme verticale et horizontale (période 2).
 
-Déplacement d’un glider
+- Déplacement d’un glider
 Le glider doit continuer à exister après plusieurs générations.
 
 Chaque test utilise des assertions (assert) pour vérifier automatiquement que l’état final de la grille correspond au résultat attendu.
