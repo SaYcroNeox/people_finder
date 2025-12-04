@@ -110,7 +110,7 @@ ProjetPOO/
 
 
 
-🛠️ Compilation :
+## **🛠️ Compilation :**
 
 Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
 
@@ -130,7 +130,7 @@ Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
 
 
 
-▶️ Exécution :
+## **▶️ Exécution :**
 
 🔹 Mode Graphique :
         
@@ -159,7 +159,7 @@ Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
 
 
 
-📄 Format du fichier test.txt :
+## **📄 Format du fichier test.txt :**
 
 .....
 ..1..
@@ -188,7 +188,7 @@ Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
 
 
 
-🎮 Commandes du jeu :
+## **🎮 Commandes du jeu :**
 
 
 
@@ -250,7 +250,7 @@ Mode Édition :
 
 
 
-🧠 Architecture Orientée Objet :
+## **🧠 Architecture Orientée Objet :**
 
 - Cell → état d’une cellule
 
@@ -284,7 +284,7 @@ Mode Édition :
 
 
 
-🌟 Fonctionnalités implémentées (conforme a la demande du projet) :
+## **🌟 Fonctionnalités implémentées (conforme a la demande du projet) :**
 
 - Chargement depuis fichier
 - Simulation automatique
@@ -313,7 +313,7 @@ Mode Édition :
 
 
 
-Tests unitaires :
+## **Tests unitaires :**
 
 
 Le projet intègre un module de tests unitaires permettant de vérifier automatiquement le bon fonctionnement des règles du Game of Life.
@@ -343,7 +343,7 @@ Le glider doit continuer à exister après plusieurs générations.
 Chaque test utilise des assertions (assert) pour vérifier automatiquement que l’état final de la grille correspond au résultat attendu.
 
 
-▶️ Exemple d’exécution des tests :
+#### **▶️ Exemple d’exécution des tests :**
 
 Lors du lancement du programme, l’affichage suivant apparaît dans la console :
 
@@ -371,7 +371,7 @@ Tous les tests unitaires sont passes avec succes.
 
 
 
-👨‍💻 Auteur :
+## **👨‍💻 Auteur :**
 
 Projet réalisé dans le cadre d’un Projet de Programmation Orientée Objet
 Langage : C++17
