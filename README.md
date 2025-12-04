@@ -196,14 +196,14 @@ Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
 
 
 
-Écran titre :
+### Écran titre :
 
 - ENTER / clic sur "START" : aller au menu principal
 - "SETTINGS" : modifier les touches
 - "CREDITS" : afficher les crédits
 - ESC : quitter le jeu
 
-Menu :
+### Menu :
 
 - HAUT / BAS : naviguer
 
@@ -213,7 +213,7 @@ Menu :
 
 - ECHAP : quitter
 
-Mode Jeu :
+### Mode Jeu :
 
 - ESPACE : Pause / Play
 
@@ -223,7 +223,7 @@ Mode Jeu :
 
 - ECHAP : quitter
 
-Mode Édition :
+### Mode Édition :
 
 - CLIC GAUCHE : poser/supprimer cellule
 
