@@ -73,6 +73,19 @@ ProjetPOO/
 ```
 
 
+
+
+
+
+
+---
+
+
+
+
+
+
+
 ## **⚙️ Prérequis :**
 
 - Compilateur C++17
@@ -88,6 +101,15 @@ ProjetPOO/
 
 
 
+
+---
+
+
+
+
+
+
+
 🛠️ Compilation :
 
 Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
@@ -97,6 +119,13 @@ Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
     -o game_of_life \
     -std=c++17 \
     -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
+
+
+
+
+---
+
+
 
 
 
@@ -119,6 +148,17 @@ Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
 
 
 
+
+
+---
+
+
+
+
+
+
+
+
 📄 Format du fichier test.txt :
 
 .....
@@ -130,6 +170,21 @@ Ouvrir le terminal MSYS2 MINGW64 et Executer la commandes ci-dessous :
 - 1 = cellule vivante
 
 - . = cellule morte
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
 
 
 
@@ -177,6 +232,24 @@ Mode Édition :
 
 
 
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 🧠 Architecture Orientée Objet :
 
 - Cell → état d’une cellule
@@ -196,6 +269,21 @@ Mode Édition :
 
 
 
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
 🌟 Fonctionnalités implémentées (conforme a la demande du projet) :
 
 - Chargement depuis fichier
@@ -207,6 +295,21 @@ Mode Édition :
 - Placement de constructions
 - Contrôle de la vitesse
 - Interface POO complète
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
 
 
 
@@ -250,6 +353,21 @@ Lors du lancement du programme, l’affichage suivant apparaît dans la console 
   - Blinker oscille correctement ... OK
   - Glider se deplace dans la grille ... OK
 Tous les tests unitaires sont passes avec succes.
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
 
 
 
